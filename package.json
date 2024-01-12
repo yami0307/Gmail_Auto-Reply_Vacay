@@ -1,0 +1,20 @@
+{
+  "name": "listed_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yamini_agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^9.4.2",
+    "googleapis": "^130.0.0",
+    "node-cron": "^3.0.3",
+    "path": "^0.12.7"
+  }
+}
